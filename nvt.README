@@ -1,0 +1,8 @@
+Win:
+ - Windows7 Pro 32bit 
+ - com2tcp-rfc2217 from hub4com from com2com 
+
+Linux:
+ - RPi2 on Raspbian
+ - arduino DUE connected via Programmer port
+ - nvt running as service, listenning on port 2003
