@@ -48,7 +48,7 @@ using namespace std;
 #define CAN         0x18
 #define START       'C'
 
-#define TIMEOUT_QUICK   100
+#define TIMEOUT_QUICK   1000
 #define TIMEOUT_NORMAL  1000
 #define TIMEOUT_LONG    5000
 
